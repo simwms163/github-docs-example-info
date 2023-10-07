@@ -45,12 +45,6 @@ class Person
 end
 ```
 
-#Create a new instance of the Person class
-person1= Person.new("Alice", 30)
-
-# Print out the greetng
-puts person1.greeting
-```
 
 
 
