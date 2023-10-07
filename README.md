@@ -26,6 +26,25 @@ class Person
 end
 ```
 
+
+-When you can you should attempt to apply syntax highlighting to your codeblocks
+
+```ruby
+# Define a Person class
+class Person
+  # Constructor
+  def initialize(name, age)
+    @name = name    # Instance variable for the person's name
+    @age = age      # Instance variable for the person's age
+  end
+
+  #Instance method to return a greeting
+  def greeting
+    "Hello, my name is #{@name} and I am #{@age} years old."
+  end
+end
+```
+
 #Create a new instance of the Person class
 person1= Person.new("Alice", 30)
 
