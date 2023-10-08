@@ -89,6 +89,7 @@ Here are some examples:
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
 | Cloud | Cloud | Cloud |
+```
 
 ## References
 
