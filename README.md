@@ -79,7 +79,7 @@ Here are some examples:
 ```markdown
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
-| Cloud | `:cloud` | :cloud: |
+| Cloud | `:cloud` |  |
 | Cloud With Lightning and Rain | `:cloud_with_lightning_and_rain` | :cloud_with_lightning_and_rain: |
 ```
 :cloud:
