@@ -85,6 +85,7 @@ Here are some examples:
 
 ## How To Create A Table 
 
+```markdown
 | --- | --- |
 
 ## References
