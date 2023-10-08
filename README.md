@@ -85,11 +85,11 @@ Here are some examples:
 :cloud:
 :cloud_with_lightning_and_rain:
 
-GiHub extends the functionality of Markdown tables to provide more alignment and table cell formatting cell. [<sup>[2]</sup>](#external-reference)
+GiHub extends the functionality of Markdown tables to provide more alignment and table cell formatting cell. [<sup>[2]</sup>](#external-references)
 
 
 
-## References
+## External References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/gfm/) <sup>[1]</sup>
 - [Basic writing and formatting syntax (GitHub Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) <sup>[2]</sup>
