@@ -65,6 +65,10 @@ RuntimeError: This is a custom error message
 
 GitHub extends Markdown to have a list where you can check off items. <sup>[1]</sup>
 
+- [X] Finish First Step
+- [X] Finish Next Step
+- [X] Finish Another Step
+
 ## References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/gfm/) <sup>[1]</sup>
