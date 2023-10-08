@@ -63,7 +63,7 @@ RuntimeError: This is a custom error message
 
 ## Next Step - Use Github Flavored Markdown Task Lists
 
-GitHub extends Markdown to have a list where you can check off items. <sup>[1]</sup>
+GitHub extends Markdown to have a list where you can check off items. <sup>[6]</sup>
 
 - [x] Finish First Step
 - [x] Finish Next Step
@@ -85,7 +85,7 @@ Here are some examples:
 :cloud:
 :cloud_with_lightning_and_rain:
 
-GiHub extends the functionality of Markdown tables to provide more alignment and table cell formatting cell. [<sup>[2]</sup>](#external-references)
+GiHub extends the functionality of Markdown tables to provide more alignment and table cell formatting cell. [<sup>[5]</sup>](#external-references)
 
 
 
