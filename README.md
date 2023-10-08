@@ -54,3 +54,7 @@ image
 
 ```bash
 Traceback (most recent call last):
+        2: from /usr/bin/irb:23:in  `<main>'
+        1: from (irb):1
+RuntimeError: This is a custom error message
+```
