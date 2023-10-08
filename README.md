@@ -88,6 +88,7 @@ Here are some examples:
 ```markdown
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
+| Cloud | Cloud | Cloud |
 
 ## References
 
