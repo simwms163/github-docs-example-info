@@ -80,6 +80,9 @@ Here are some examples:
 | Cloud | :cloud: | :cloud: |
 | Cloud With Lightning and Rain | :cloud_with_lightning_and_rain: | :cloud_with_lightning_and_rain: |
 
+:cloud:
+:cloud_with_lightning_and_rain:
+
 ## References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/gfm/) <sup>[1]</sup>
