@@ -92,6 +92,7 @@ GiHub extends the functionality of Markdown tables to provide more alignment and
 ## External References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/gfm/) <sup>[1]</sup>
-- [Basic writing and formatting syntax (GitHub Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) <sup>[2]</sup>
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on- 
+  github/basic-writing-and-formatting-syntax#quoting-text) <sup>[2]</sup>
 - [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) <sup>[3]</sup>
 - [GitHub Emoji Cheatsheet](https://jimit105.github.io/github-emoji-cheatsheet/) <sup>[4]</sup>
