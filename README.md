@@ -61,6 +61,10 @@ RuntimeError: This is a custom error message
 
 < Here is an example of using a codeblock for an error that appears in bash.
 
+## Next Step - Use Github Flavored Markdown Task Lists
+
+GitHub extends Markdown to have a list where you can check off items.
+
 ## References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/gfm/) <sup>[1]</sup>
