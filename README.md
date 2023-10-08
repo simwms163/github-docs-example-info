@@ -63,7 +63,7 @@ RuntimeError: This is a custom error message
 
 ## Next Step - Use Github Flavored Markdown Task Lists
 
-GitHub extends Markdown to have a list where you can check off items.
+GitHub extends Markdown to have a list where you can check off items. <sup>[1]</sup>
 
 ## References
 
