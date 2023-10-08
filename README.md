@@ -49,8 +49,7 @@ Make note of where the backtick button is located.
 It should appear above the tab key, but it may vary based on your keyboard type.
 image
 
-![image](https://github.com/simwms163/github-docs-example-info/assets/134225066/1db474bd-92e8-4893-8024-97f31b38a049)
-
+C:\Users\User\Downloads\20231008_124839.jpg
 
 ```bash
 Traceback (most recent call last):
