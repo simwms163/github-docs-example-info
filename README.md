@@ -78,7 +78,8 @@ Here are some examples:
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
 | Cloud | :cloud: | :cloud: |
-  
+| --- | --- | --- |
+| Cloud With Lightning and Rain | :cloud_with_lightning_and_rain: | :cloud_with_lightning_and_rain: |
 
 ## References
 
