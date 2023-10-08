@@ -69,6 +69,17 @@ GitHub extends Markdown to have a list where you can check off items. <sup>[1]</
 - [x] Finish Next Step
 - [x] Finish Another Step
 
+## Followup Step - Use Emojis
+
+GitHub Flavored Markdown (GFM) supports emoji shortcodes.
+Here are some examples:
+
+
+| Name | Shortcode | Emoji |
+| --- | --- | --- |
+| Cloud | :cloud: | :cloud_with_lightning_and_rain: |
+  
+
 ## References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/gfm/) <sup>[1]</sup>
