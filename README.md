@@ -1,4 +1,4 @@
-# Writing Good Documentation
+ # Writing Good Documentation
 
 ## Step 1 - Using Codeblocks.
 
@@ -49,7 +49,9 @@ Make note of where the backtick button is located.
 It should appear above the tab key, but it may vary based on your keyboard type.
 image
 
-C:\Users\User\Downloads\20231008_124839.jpg
+![image](https://github.com/simwms163/github-docs-example-info/assets/134225066/92cbf81c-bdd5-468c-bd68-646aefadd2cd)
+
+
 
 ```bash
 Traceback (most recent call last):
