@@ -83,6 +83,10 @@ Here are some examples:
 :cloud:
 :cloud_with_lightning_and_rain:
 
+## How To Create A Table 
+
+| --- | --- |
+
 ## References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/gfm/) <sup>[1]</sup>
