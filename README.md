@@ -43,10 +43,14 @@ class Person
     "Hello, my name is #{@name} and I am #{@age} years old."
   end
 end
-
 ```
 
+Make note of where the backtick button is located.
+It should appear above the tab key, but it may vary based on your keyboard type.
+image
+
+![image](https://github.com/simwms163/github-docs-example-info/assets/134225066/1db474bd-92e8-4893-8024-97f31b38a049)
 
 
-
-
+```bash
+Traceback (most recent call last):
