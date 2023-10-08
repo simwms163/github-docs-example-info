@@ -77,7 +77,7 @@ Here are some examples:
 
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
-| Cloud | :cloud: | :cloud_with_lightning_and_rain: |
+| Cloud | :cloud: | :cloud: |
   
 
 ## References
