@@ -63,5 +63,5 @@ RuntimeError: This is a custom error message
 
 ## References
 
-- [GitHub Flavored Markdown Spec] (https://github.github.com/gfm/gfm/) <sup>[1]</sup>
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/gfm/) <sup>[1]</sup>
 - [Basic writing and formatting syntax (GitHub Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) <sup>[2]</sup>
