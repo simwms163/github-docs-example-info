@@ -85,7 +85,7 @@ Here are some examples:
 :cloud:
 :cloud_with_lightning_and_rain:
 
-GiHub extends the functionality of Markdown tables to provide more alignment and table cell formatting cell.
+GiHub extends the functionality of Markdown tables to provide more alignment and table cell formatting cell. [<sup>[2]</sup>](## Reference)
 
 
 
