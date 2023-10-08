@@ -74,22 +74,20 @@ GitHub extends Markdown to have a list where you can check off items. <sup>[1]</
 GitHub Flavored Markdown (GFM) supports emoji shortcodes.
 Here are some examples:
 
-
-| Name | Shortcode | Emoji |
-| --- | --- | --- |
-| Cloud | cloud | :cloud: |
-| Cloud With Lightning and Rain | cloud_with_lightning_and_rain | :cloud_with_lightning_and_rain: |
-
-:cloud:
-:cloud_with_lightning_and_rain:
-
 ## How To Create A Table 
 
 ```markdown
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
-| Cloud | Cloud | Cloud |
+| Cloud | cloud | :cloud: |
+| Cloud With Lightning and Rain | cloud_with_lightning_and_rain | :cloud_with_lightning_and_rain: |
 ```
+:cloud:
+:cloud_with_lightning_and_rain:
+
+
+
+
 
 ## References
 
