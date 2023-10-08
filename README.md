@@ -79,13 +79,13 @@ Here are some examples:
 ```markdown
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
-| Cloud | `:cloud:`| :cloud: |
+| Cloud | `:cloud:` | :cloud: |
 | Cloud With Lightning and Rain | `:cloud_with_lightning_and_rain:` | :cloud_with_lightning_and_rain: |
 ```
 :cloud:
 :cloud_with_lightning_and_rain:
 
-
+GiHub extends the functionality of Markdown tables to provide more alignment and table cell formatting cell.
 
 
 
