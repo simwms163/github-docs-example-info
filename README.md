@@ -45,13 +45,12 @@ class Person
 end
 ```
 
-Make note of where the backtick button is located.
-It should appear above the tab key, but it may vary based on your keyboard type.
-image
+- Make note of where the backtick button is located.
+- But it may vary based on your keyboard layout.
 
-![image](https://github.com/simwms163/github-docs-example-info/assets/134225066/92cbf81c-bdd5-468c-bd68-646aefadd2cd)
+  ![image](https://github.com/simwms163/github-docs-example-info/assets/134225066/92cbf81c-bdd5-468c-bd68-646aefadd2cd)
 
-
+Good Cloud Engineers use codeblocks for both code and errors that appear in the console. 
 
 ```bash
 Traceback (most recent call last):
@@ -62,3 +61,7 @@ RuntimeError: This is a custom error message
 
 < Here is an example of using a codeblock for an error that appears in bash.
 
+## References
+
+https://github.github.com/gfm/
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github
