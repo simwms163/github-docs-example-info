@@ -101,6 +101,7 @@ GiHub extends the functionality of Markdown tables to provide more alignment and
 
 ![tildekeypng](https://github.com/simwms163/github-docs-example-info/assets/134225066/7b4ec0b5-504e-4f05-b860-7447ef8bc11c)
 
+## I know how to do screenshots on my computer.
 
 ## External References
 
