@@ -61,11 +61,21 @@ RuntimeError: This is a custom error message
 
 < Here is an example of using a codeblock for an error that appears in bash.
 
+## Step Second - How to take screenshots
+
+A screenshot is when you capture a part of you screen from your laptop, desktop or phone.
+
+![20231008_212830](https://github.com/simwms163/github-docs-example-info/assets/134225066/2396180e-4eaf-49b1-b68e-cdb56c9d5482)
+
+This is not to be confused with taking a photo with your phone.
+
 ## Next Step - Use Github Flavored Markdown Task Lists
+
 
 GitHub extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
 
 - [x] Finish First Step
+- [ ] Finish Second
 - [x] Finish Next Step
 - [x] Finish Another Step
 
