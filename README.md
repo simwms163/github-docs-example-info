@@ -65,7 +65,9 @@ RuntimeError: This is a custom error message
 
 A screenshot is when you capture a part of you screen from your laptop, desktop or phone.
 
-![20231008_212830](https://github.com/simwms163/github-docs-example-info/assets/134225066/2396180e-4eaf-49b1-b68e-cdb56c9d5482)
+**Don't Do This.**
+
+![Phote With Phone](https://github.com/simwms163/github-docs-example-info/assets/134225066/2396180e-4eaf-49b1-b68e-cdb56c9d5482)
 
 This is not to be confused with taking a photo with your phone.
 
